@@ -65,7 +65,7 @@ describe('User Model', () => {
             id: userId,
             username: 'TuNguyen',
             firstname: 'Tu',
-            lastname: 'Tieu',
+            lastname: 'Nguyen',
             password: password
         });
       });
